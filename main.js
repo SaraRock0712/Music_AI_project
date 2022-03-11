@@ -63,7 +63,7 @@ function draw(){
         if(song1_status == false)
         {
             song_1.play();
-            document.getElementById("song").innerHTML = "Playing - Winter Bear by BTS V";
+            document.getElementById("song").innerHTML = "Playing - Love to hate me by Blackpink";
         }
     }
 
